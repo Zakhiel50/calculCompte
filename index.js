@@ -10,7 +10,7 @@ function calculate() {
     let inputDepenseMensuelle = document.querySelector(".input-depenses")
     let inputRevenus = document.querySelector(".input-revenus")
     let inputCartes = document.querySelector(".input-cartes")
-    const depenseMensuelle = 1284.4;
+    const depenseMensuelle = 1246.71;
     inputDepenseMensuelle.value = depenseMensuelle
 
     const carteValue = Number(inputCartes.value)
